@@ -33,7 +33,7 @@ Dodatkowo projekt rozszerzony jest o analizę działania modelu z wykorzystaniem
 
 
 ## Design Proposal
-[Raport (PDF)](../docs/design_proposal.pdf)
+[Raport (PDF)](../docs/SIWY___design_proposal.pdf)
 
 
 ## Documentation
