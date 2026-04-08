@@ -13,6 +13,6 @@ Przegląd literatury obejmuje zarówno dokumentacje techniczne wykorzystywanych 
 ## Dokumentacje techniczne
 | Narzędzie                  | Link      | Opis                          |
 |:----------------------|:---------:|----------------------------------------|
-|        |       |        |
+| OpenCV | https://docs.opencv.org/4.x/ | biblioteka umożliwiająca modyfikowanie obrazów, pomocna w kontekście augmentacji danych |
 
 
