@@ -9,7 +9,7 @@ Projekt realizowany w ramach przedmiotów **SIGK i SIWY (2026L)**
 
 ## Repositories
 - Backend: https://github.com/GESTR-org/GESTR-backend
-
+- Frontend: https://github.com/GESTR-org/GESTR-frontend
 
 <!-- ## Project structure
 ```
